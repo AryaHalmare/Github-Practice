@@ -3,3 +3,5 @@ New file created on local git
 Now after creating the file in local 
 
 then I ma making changes in this file from github (not in VScode)
+
+whatever changes I made her I need it to be reflected in the loga git (VScode) by doing git pull origin main

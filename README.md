@@ -9,7 +9,7 @@ add
 
 commit
 
-#Commmands
+# Commands
 
 git config --global user.name "My User Name"
 git config --global user.email "My registered Email"

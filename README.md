@@ -21,3 +21,5 @@ git add "File Name"
 git commit -m "Write any message"
 
 git push origin main
+
+git pull origin main

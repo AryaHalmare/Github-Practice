@@ -3,6 +3,7 @@ package GithubPractice;
 public class gradeCalc {
     public String grade(int percentage) {
         String grade = "";
+        System.out.println("Arya");
         if (percentage < 0)
             throw new IllegalArgumentException("Percentage can not be negative");
         else if (percentage < 40)
